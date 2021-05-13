@@ -13867,9 +13867,9 @@ a.text-white:focus {
 .home-hero .slide-content-wrapper .slide-content:after {
    content: '';
    position: absolute;
-   background-image: url("http://beta1.dxc.technology/home/downloads/quotes.svg");
-   width: 37px;
-   height: 27px;
+   /*background-image: url("http://beta1.dxc.technology/home/downloads/quotes.svg");*/
+/*   width: 37px;
+   height: 27px;*/
    background-size: 100% 100%
 }
 
@@ -14356,14 +14356,14 @@ aside.interrupter p {
    line-height: 1.875rem
 }
 
-.dxc-ets-img {
+/*.dxc-ets-img {
    min-height: 56vh;
    display: block;
    background: url('../img/DXC-ETS-062920.png');
    background-size: contain;
    background-repeat: no-repeat;
    margin: 5vh 0
-}
+}*/
 
 
 .btn-cus{

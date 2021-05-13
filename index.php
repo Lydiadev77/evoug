@@ -241,7 +241,11 @@ style="background: center / cover url('asset/img/index_bannertwo.jpeg') no-repea
 <div class="content align-self-center con-fluid-img">
 <h2 class="">The Enterprise Technology Stack</h2>
 <p>
-<a class='' href="" style="background-image: url('asset/img/index_enterprise.png');"></a>
+<a class='' href="" style="background-image: url('asset/img/index_enterprise.png');   min-height: 56vh;
+   display: block;
+   background-size: contain;
+   background-repeat: no-repeat;
+   margin: 5vh 0"></a>
 </p>
 
 <a href="" class="btn-cus">Explore the
