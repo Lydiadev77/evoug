@@ -505,20 +505,23 @@ solutions for public sector institutions.</p>
 </div>
 </div>
 </section>
-<div class="sxs sxs-image sxs-content-start">
+<div class="sxs " >
 <div class="sxs-background d-none d-md-block" >
-<div class="sxs-background-image" style="background-image:url('asset/img/index_banner3.jpg')"></div>
+<div class="sxs-background-image" ></div>
 </div>
-<div class="sxs-foreground">
+<div class="sxs-foreground" style="background-image:url('asset/img/index_banner3a.jpg')">
 <div class="container-fluid">
+<!-- <div class="row"> -->
+
 <div class="row">
-<div class="sxs-foreground-content col-12">
+	<div class="col-md-5"></div>
+<div class="col-md-6">
+<a class=" btn btn-cus" style="margin-top: 5rem; margin-left: -2rem;"> Contact Us</a></div>
 
-<div class="sxs-content ">
+
 
 </div>
-</div>
-</div>
+<!-- </div> -->
 </div>
 </div>
 <div class="bg-dark-gray text-white abstract-group abstract-group-blog">
