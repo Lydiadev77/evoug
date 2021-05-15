@@ -13867,7 +13867,7 @@ a.text-white:focus {
 .home-hero .slide-content-wrapper .slide-content:after {
    content: '';
    position: absolute;
-   /*background-image: url("http://beta1.dxc.technology/home/downloads/quotes.svg");*/
+   /*background-image: url("http:");*/
 /*   width: 37px;
    height: 27px;*/
    background-size: 100% 100%

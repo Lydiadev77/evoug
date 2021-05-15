@@ -2,6 +2,16 @@
 <html class="no-js" lang="en">
 
 <head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KMXCW8X');</script>
+<!-- End Google Tag Manager -->
+
+
 <title>Services</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,width=device-width" />
@@ -124,10 +134,17 @@ margin: 0px auto !important;
 <script src="asset/js/video_js_7_5_4-min.js"></script>
 <script src="asset/js/nzhp_vendor_static-min.js"></script>
 <script src="asset/js/nzhp_main2.js"></script>
-<script src="asset/js/usdp_forms_js-min.js"></script>
-</head> -->
+<script src="asset/js/usdp_forms_js-min.js"></script>-->
+</head> 
 
 <body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMXCW8X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
 <div class='mboxDefault'></div>
 <?php include 'includes/header.php'?>
 <style type="text/css" scoped>
