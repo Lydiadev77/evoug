@@ -187,11 +187,11 @@ Work email is required or value is not valid
 </div>
 <div class="form-group col-12 col-md px-0">
 <label class="sr-only">
-Title</label>
-<input class="form-control" type="text" name="Title" placeholder="Job Title *"
+Mobile Number</label>
+<input class="form-control" type="text" name="Title" placeholder="Mobile Number *"
 required></input>
 <div class="invalid-feedback">
-Job title is required
+Mobile Number is required
 </div>
 </div>
 <button class="form-advance form-advance-button p-0 " type="button" data-advance="2"
