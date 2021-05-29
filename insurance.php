@@ -112,15 +112,14 @@ margin: 0px auto !important;
 }
 }
 </style>
-<!-- <link href="asset/css/flexiwide_styles-min.css" media="all" rel="stylesheet" type="text/css" />
-<script src="asset/js/stickyfill.js"></script>
-<script src="asset/js/anime_v3_0_1.js"></script>
+<link href="asset/css/flexiwide_styles-min.css" media="all" rel="stylesheet" type="text/css" />
+<!-- <script src="asset/js/stickyfill.js"></script>
+<script src="asset/js/anime_v3_0_1.js"></script> -->
 <script src="asset/js/global-bundle-min.js"></script>
-<script src="asset/js/popper_1_4_5-min.js"></script>
+<!-- <script src="asset/js/popper_1_4_5-min.js"></script> -->
 <script src="asset/js/bootstrap_v4_1_3.js"></script>
-<script src="asset/js/nzhp_vendor_static-min.js"></script>
-<script src="asset/js/nzhp_main2.js"></script>
-<script src="asset/js/usdp_forms_js-min.js"></script> -->
+<!-- <script src="asset/js/nzhp_vendor_static-min.js"></script>
+<script src="asset/js/nzhp_main2.js"></script> -->
 </head>
 
 <body>
@@ -196,7 +195,7 @@ Telecommunications companies must redefine the customer experience, capitalize o
 convergence and quickly launch new business models.
 </p>
 <br>
-<a class="btn-cus" href="">Learn more</a>
+<a class="btn-cus" href="#talk-to-an-expert-anchor">Talk to Experts</a>
 </div>
 </div>
 </div>
@@ -207,7 +206,7 @@ convergence and quickly launch new business models.
 <div class="col-12 align-self-center">
 <div class="content-wrapper d-flex justify-content-center flex-wrap">
 <p class="align-self-center m-0 mr-3 text-center text-sm-left mb-3 mb-md-0">
-Subscribe to receive the latest insights from Evogue
+Subscribe to receive the latest insights from Evouge
 </p>
 <a href=""
 class="btn-cus">
@@ -246,7 +245,7 @@ Digital innovation at speed and scale for technology-led organizations
 </span>
 </p>
 <p>
-Evogue is shaping the technology industry agenda through innovation in platforms,
+Evouge is shaping the technology industry agenda through innovation in platforms,
 products, services and business models.
 </p>
 </div>
@@ -277,7 +276,7 @@ Content anywhere - from creation to consumption
 </span>
 </p>
 <p>
-Evogue helps media and entertainment companies stay agile and relevant in a fast-changing
+Evouge helps media and entertainment companies stay agile and relevant in a fast-changing
 world.
 </p>
 </div>
@@ -308,7 +307,7 @@ Dealing with digital disruption
 </span>
 </p>
 <p>
-Evogue helps telecommunications companies adopt new technology to stay competitive amid
+Evouge helps telecommunications companies adopt new technology to stay competitive amid
 industry convergence.
 </p>
 </div>
@@ -329,7 +328,7 @@ industry convergence.
 <div class="content align-self-center">
 <!-- <h2 class=""> </h2> -->
 <p class="">
-Evogue Technology runs mission-critical systems with the latest technology innovations on a
+Evouge Technology runs mission-critical systems with the latest technology innovations on a
 global scale with speed and agility to deliver better business outcomes and new levels of
 performance, competitiveness and experiences for our customers. Our technology
 independence, combined with a broad ecosystem of partners and leading technology talent,
@@ -362,7 +361,7 @@ style="background-image:url('asset/img/analy_one.png');">
 <span>Technology</span>
 </h3>
 <p class="">
-Evogue Technology’s innovative solutions are helping technology companies across the
+Evouge Technology’s innovative solutions are helping technology companies across the
 globe — from born-in-the-cloud digital natives to legacy enterprises — accelerate
 their business transformation journey.
 </p>
@@ -389,7 +388,7 @@ style="background-image:url('asset/img/analy_two.png');">
 <span>Media and Entertainment</span>
 </h3>
 <p class="">
-Evogue helps media and entertainment companies stay agile and relevant in a
+Evouge helps media and entertainment companies stay agile and relevant in a
 fast-changing world.
 </p>
 </div>
@@ -416,7 +415,7 @@ style="background-image:url('asset/img/analy_three.png');">
 <span>Telecommunications</span>
 </h3>
 <p class="">
-Evogue has the scale, technology, experience and partner network to help telecom
+Evouge has the scale, technology, experience and partner network to help telecom
 companies meet today’s complex challenges.
 </p>
 </div>
@@ -442,7 +441,7 @@ style="background-image:url('asset/img/analy_four.png');">
 <span>Partner Network</span>
 </h3>
 <p class="">
-At Evogue, we enable our customers to harness the
+At Evouge, we enable our customers to harness the
 power of the Enterprise Technology Stack
 at scale and transform their businesses
 through joint business objectives, investments, innovation, and co-development

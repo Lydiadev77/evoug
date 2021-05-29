@@ -871,7 +871,7 @@ id="talk-to-an-expert_gdprCheck">
 <label class="form-check-label" for="talk-to-an-expert_gdprCheck">
 Yes, you can email me and process my data for marketing purposes. (
 <a data-toggle="popover" data-html="true" data-placement="top"
-data-content="At Evogue we have exciting offers and news about our products and services that we hope you'd like to hear about via email. We will use your information to predict what you might be interested in. We will treat your data with respect and you can find the details on our 
+data-content="At Evouge we have exciting offers and news about our products and services that we hope you'd like to hear about via email. We will use your information to predict what you might be interested in. We will treat your data with respect and you can find the details on our 
 <a href='' target='_blank'>Privacy Policy page</a>. 
 <br>
 <a href='' target='_blank'>privacy policy</a>.">learn
@@ -888,14 +888,14 @@ more
 Thank You For Contacting Us
 </h2>
 <p class="form-subtitle">
-A Evogue representative will be in touch with you soon.
+A Evouge representative will be in touch with you soon.
 </p>
 <p class="form-subtitle form-cta">
 <a href="" target="_blank">
-<i class="fab fa-twitter-square"></i> @Evogue
+<i class="fab fa-twitter-square"></i> @Evouge
 </a>
 <a href="" target="_blank">
-<i class="fab fa-facebook"></i> Evogue
+<i class="fab fa-facebook"></i> Evouge
 </a>
 </p>
 <div class="form-progress-wrapper">

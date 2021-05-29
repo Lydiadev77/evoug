@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en">
+<html lang="en">
 
 <head>
 <!-- Google Tag Manager -->
@@ -150,7 +150,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 #csr_wrapper {
 background: none;
 }
+
+.cookie-banner {
+  position: fixed;
+  bottom: 40px;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  padding: 5px 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #eee;
+  border-radius: 5px;
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+.close {
+  height: 20px;
+  background-color: #777;
+  border: none;
+  color: white;
+  border-radius: 2px;
+  cursor: pointer;
+}
 </style>
+
 <section id="mainContent" class="fullPage">
 <div class="wrapper">
 <article class="pageContent" itemprop="mainContentOfPage">
@@ -160,7 +184,7 @@ background: none;
 <img class="angle" src="asset/img/Angle_2x.png" />
 <div id="slide-background-0" class="slide-background" data-slide-index="0">
 
-<div class="slide-background-image in" style="background-image: url('asset/img/index_banner.png');">
+<div class="slide-background-image in" style="background-image: url('asset/img/homepage_banner.jpeg');">
 </div>
 </div>
 <div id="slide-background-1" class="slide-background" data-slide-index="1">
@@ -169,8 +193,8 @@ background: none;
 <div id="slide-background-2" class="slide-background" data-slide-index="2">
 
 <div class="slide-background-image out"
-style="background-image: url('asset/img/Bayernwerk.jpg');"></div>
-<img src="asset/img/Bayernwerk.jpg" class="slide-background-video" />
+style="background-image: url('asset/img/homepage_banner.jpeg');"></div>
+<img src="asset/img/homepage_banner.jpeg" class="slide-background-video" />
 </div>
 </div>
 <div class="slide-navigation-wrapper">
@@ -233,7 +257,7 @@ class="btn-cus">Contact Us</a>
 </div>
 </aside>
 <section class="card-cta"
-style="background: center / cover url('asset/img/index_bannertwo.jpeg') no-repeat">
+style="background: center / cover url('asset/img/homepage_banner2.jpeg') no-repeat">
 <div class="container">
 <div class="row">
 <div class="col-12  mr-auto">
@@ -998,6 +1022,8 @@ class="btn-cus">Explore more</a>
 </div>
 </div>
 </div>
+
+
 </body>
 
 </html>

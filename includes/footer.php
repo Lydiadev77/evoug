@@ -91,23 +91,23 @@ Overview</span>
 
 <div class="social-links text-md-right mt-2 px-3">
 <a class="social-link" href="" target="_blank"
-title="Follow Evogue on Facebook">
+title="Follow Evouge on Facebook">
 <i class="fab fa-facebook" data-provider="Facebook"></i>
 </a>
 <a class="social-link" href="" target="_blank"
-title="Follow Evogue on Twitter">
+title="Follow Evouge on Twitter">
 <i class="fab fa-twitter-square" data-provider="Twitter"></i>
 </a>
 <a class="social-link" href="" target="_blank"
-title="Follow Evogue on LinkedIn">
+title="Follow Evouge on LinkedIn">
 <i class="fab fa-linkedin" data-provider="LinkedIn"></i>
 </a>
 <a class="social-link" href="" target="_blank"
-title="Follow Evogue on YouTube">
+title="Follow Evouge on YouTube">
 <i class="fab fa-youtube-square" data-provider="YouTube"></i>
 </a>
 <a class="social-link" href="" target="_blank"
-title="Follow Evogue on Instagram">
+title="Follow Evouge on Instagram">
 <i class="fab fa-instagram" data-provider="Instagram"></i>
 </a>
 </div>
@@ -990,16 +990,16 @@ more
 Welcome onboard!
 </h2>
 <p class="form-subtitle">
-Thank you for choosing to receive updates from Evogue. Please check your inbox and click the email
+Thank you for choosing to receive updates from Evouge. Please check your inbox and click the email
 to confirm your consent.
 </p>
 <p class="form-subtitle form-cta">
 <a href="" target="_blank">
-<i class="fab fa-twitter-square"></i> @Evogue
+<i class="fab fa-twitter-square"></i> @Evouge
 </a>
 <a href="" target="_blank">
 <i class="fab fa-facebook"></i>
-Evogue
+Evouge
 </a>
 </p>
 <div class="form-progress-wrapper">
@@ -1027,7 +1027,7 @@ Evogue
 </div>
 <footer class="socket">
 <div class="container-fluid">
-<div>©Evogue 2021</div>
+<div>©Evouge 2021</div>
 <ul>
 <li>
 <a href="">Legal

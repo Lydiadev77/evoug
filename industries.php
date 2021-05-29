@@ -131,16 +131,14 @@ margin: 0px auto !important;
 }
 }
 </style>
-<!-- <link href="asset/css/flexiwide_styles-min.css" media="all" rel="stylesheet" type="text/css" />
-<script src="asset/js/stickyfill.js"></script>
-<script src="asset/js/anime_v3_0_1.js"></script>
+<link href="asset/css/flexiwide_styles-min.css" media="all" rel="stylesheet" type="text/css" />
+<!-- <script src="asset/js/stickyfill.js"></script>
+<script src="asset/js/anime_v3_0_1.js"></script> -->
 <script src="asset/js/global-bundle-min.js"></script>
-<script src="asset/js/popper_1_4_5-min.js"></script>
+<!-- <script src="asset/js/popper_1_4_5-min.js"></script> -->
 <script src="asset/js/bootstrap_v4_1_3.js"></script>
-<script src="asset/js/video_js_7_5_4-min.js"></script>
-<script src="asset/js/nzhp_vendor_static-min.js"></script>
-<script src="asset/js/nzhp_main2.js"></script>
-<script src="asset/js/usdp_forms_js-min.js"></script> -->
+<!-- <script src="asset/js/nzhp_vendor_static-min.js"></script>
+<script src="asset/js/nzhp_main2.js"></script> -->
 </head>
 
 <body>

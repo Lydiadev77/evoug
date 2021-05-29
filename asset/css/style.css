@@ -1,0 +1,228 @@
+:root{
+    font-size: 100%;
+}
+*{
+    box-sizing: border-box;
+}
+.stack-nav{
+    display: block;
+}
+.btn0.btn0-link {
+    background-color: #f0f0f0;
+    color: #000;
+    position: relative;
+    display: block;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+
+.btn.btn-stack {
+    text-align: left;
+    padding: 22px 10px 22px 40px;
+}
+.btn.btn-stack {
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #fff;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #f0f0f0;
+    padding: 22px 20px;
+    white-space: normal;
+    text-align: center;
+}
+.btn.btn-stack {
+    background-color: transparent;
+}
+.stack-nav-content {
+    padding-left: 140px;
+}
+.stack-nav-content {
+    display: none;
+}
+.stack-nav-content.active {
+    display: block;
+    width: 100%;
+}
+.title h2{
+    font-size: 2.75em;
+    margin-bottom: 26px;
+}
+.title span {
+    font-size: 1.125em;
+    color: #000000;
+    font-weight: 500;
+}
+.title{
+    margin-bottom: 55px;
+}
+.stack-nav-content .stack-nav-inset{
+    display: none;
+}
+.stack-nav-content .hero {
+    margin-bottom: 26px;
+}
+.hero {
+    height: 420px;
+    overflow: hidden;
+}
+.header-block__heading.strong{
+    font-size: 1.5em !important;
+    margin-top: 12px;   
+    font-weight: 700; 
+}
+.link--btn-next {
+    position: relative;
+    padding-left: 45px;
+    color: #000;
+    font-size: 1rem;
+}
+.link--btn-next {
+    -webkit-transition: color 0.22s ease-in-out;
+    transition: color 0.22s ease-in-out;
+    font-weight: 700;
+}
+.stack-nav-content__rounded-link {
+    display: block;
+    margin-top: 15px;
+}
+.link--btn-next:before {
+    content: "";
+    width: 30px;
+    height: 30px;
+    background: #6F2C91;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: -5px;
+}
+.stack-nav-content__rounded-link:before {
+    top: 0px;
+}
+.stack-nav-content__rounded-link:after {
+    top: 9px;
+}
+.link--btn-next:after {
+    content: "";
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 6.5px 0 6.5px 11px;
+    border-color: transparent transparent transparent #fff;
+    position: absolute;
+    left: 11px;
+    top: 9px;
+}
+.hero-carousel .link--btn-next:after{
+    top: 4px;
+}
+.btn0.btn0-link.active {
+    background-color: #6F2C91 !important;
+    color: #ffed00;
+    position: relative;
+    display: block;
+}
+.btn0.btn0-link.active:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    z-index: 2;
+    display: inline-block;
+    bottom: auto;
+    border-width: 15px 15px 0 15px;
+    border-color: #6F2C91 transparent transparent transparent;
+    right: 48%;
+    bottom: -15px;
+}
+.btn0.btn0-link.active:before {
+    border-width: 15px 0 15px 20px;
+    border-color: transparent transparent transparent #6F2C91;
+    right: -20px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    bottom: auto;
+}
+a.btn0.btn0-link.active button {
+    color: #fff;
+}
+
+#mainContent img {
+    filter: none;
+}
+
+#mainContent img {
+    max-width: 100%;
+    height: auto;
+    filter: grayscale(0);
+}
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.logos-component__logos-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.logos-component__logos-container div {
+    width: 25%;
+    margin-bottom: 36px;
+    padding: 0 15px;
+}
+#mainContent .header-block__heading{
+    line-height: 1.31;
+}
+.content-container.font--base a:hover{
+    text-decoration: underline;
+}
+.hero-carousel__title.hero-carousel__title--smaller{
+    color: #ffffff;
+}
+.hero-carousel a{
+    color: #ffffff;
+}
+#swapper
+{
+    text-decoration: none;
+}
+.our-mission__content .arrow-link:before{
+    top: -2px !important;
+}
+#mainContent .wrapper { max-width: 100%; padding: 0; }
+.hero {
+height:420px;
+overflow:hidden;
+}
+
+#mainContent img{
+filter:none;
+}
+.content-swap__area .our-mission__content__link {
+   display: block;
+   line-height: 30px;
+   margin: 20px 0 10px;
+}
+.breadCrumbs{
+padding:3em;
+}
+
+.content-swap__area .our-mission__content__link:before {
+  top: 0px;
+}
+
+.content-swap__area .our-mission__content__link:after {
+  top: 9px;
+}
+
+.our-mission__content .content-swap__show-more.arrow-link:before {
+   top: 2px;
+}
+

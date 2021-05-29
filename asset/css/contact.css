@@ -1,0 +1,111 @@
+body
+{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #1F2020;
+    text-align: left;
+}
+h1
+{
+    color: #ffffff;
+    background-color: #000;
+    font-weight: bold;
+    line-height: 72px;
+    font-size: 60px;
+    margin: 0;
+    padding: 23px 30px 18px;
+}
+.wrapper
+{
+    max-width: 1360px;
+    margin: 0 auto;
+    overflow: hidden;
+    clear: both;
+    width: 100%;
+}
+form input , form select
+{
+    padding: 3px 22px !important;
+    background-color: #f0f0f0 !important;
+    font-weight: 700 !important;
+    color: #000000 !important;
+}
+textarea
+{
+    background-color: #f0f0f0 !important;
+}
+form .row
+{
+    margin-bottom: 33px;
+}
+.btn {
+    width: 100%;
+    margin-top: -2px;
+    font-weight: 700;
+    min-height: 60px;
+    font-size: 16px;
+    padding: 14px 75px 18px;
+}
+
+.btn {
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    border-radius: 0 !important;
+}
+.btn {
+    color: #fff;
+    background-color: #6F2C91;
+    border-color: #6F2C91;
+    border-width: 2px;
+}
+.btn:hover
+{
+    background-color: #ffffff;
+    color: #000000;
+
+}
+::placeholder { 
+    color: #000000 !important;
+    opacity: 1 !important;
+    font-weight: 700;
+  }
+  .container p
+  {
+      margin-bottom: 2rem;
+      margin-top: 2rem;
+  }
+  custom-select ,.form-control
+  {
+    outline: none !important;
+    border: none;
+    border-radius: 0;
+  }
+
+  .custom-select:focus ,.form-control:focus
+  {
+      box-shadow: none;
+      border: 2px solid #000000;
+  }
+  .form-group
+  {
+      margin-bottom: 0 !important;
+  }
+  form label
+  {
+    font-size: 14px;
+    line-height: 22px;
+    padding-left: 22px;
+    font-weight: normal;
+}
+a b
+{
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+    border-bottom: 2px solid rgb(0, 103, 179);
+}
+a:hover
+{
+    text-decoration: none;
+}
