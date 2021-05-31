@@ -335,7 +335,7 @@ independence, combined with a broad ecosystem of partners and leading technology
 positions us to deliver maximum value to our customers across their enterprise technology
 investments.
 </p>
-<button href="contact.php" class="btn-cus">Contact us</button>
+<a href="contact.php" class="btn-cus">Contact us</a>
 </div>
 </div>
 <div class="col-12 col-lg-6 item-col pl-lg-4">

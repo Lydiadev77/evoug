@@ -277,15 +277,15 @@ style="background: center / cover url('asset/img/homepage_banner2.jpeg') no-repe
 <div class="content align-self-center con-fluid-img">
 <h2 class="">The Enterprise Technology Stack</h2>
 <p>
-<a class='' href="" style="background-image: url('asset/img/index_enterprise.png');   min-height: 56vh;
+<a class='' href="" style="background-image: url('asset/img/index_enterprise.png');   min-height: 450px;
+    
    display: block;
-   background-size: contain;
+   background-size: cover;
    background-repeat: no-repeat;
    margin: 5vh 0"></a>
 </p>
 
-<a href="" class="btn-cus">Explore the
-Possibilities</a>
+<a href="" class="btn-cus" style="width: 100%;"><p align="center">Explore the Opportunities</p></a>
 </div>
 </div>
 <div class="col-12 col-lg-6 item-col pl-lg-4">
@@ -302,19 +302,19 @@ style="background-image: url('asset/img/index_scrolla1.png');">
 </div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>Healthcare and Life Sciences</span>
+<!-- <span>Healthcare and Life Sciences</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Healthcare and Life Sciences</span>
+<!-- <span>Healthcare and Life Sciences</span> -->
 </h3>
-<p class="">Develop new models of innovative and effective care with SPC digital
+<p class="">Develop new models of innovative and effective care with Evouge digital
 healthcare solutions.</p>
 </div>
 </div>
 </a>
-<a href="insurance73f6.html?ref=dhpbb_z"
+<a href=""
 class="col-12 col-sm-4 px-xl-5 col-md-4 col-lg-6 col-xl-12 d-block">
 <div class="item d-flex ">
 <div class="img-wrapper mr-auto">
@@ -326,14 +326,14 @@ style="background-image: url('asset/img/index_scrolla2.png');">
 </div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>Insurance</span>
+<!-- <span>Insurance</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Insurance</span>
+<!-- <span>Insurance</span> -->
 </h3>
-<p class="">Build a digital future and transform your legacy business with SPC
+<p class="">Build a digital future and transform your legacy business with Evouge
 digital insurance solutions.</p>
 </div>
 </div>
@@ -351,12 +351,12 @@ style="background-image: url('asset/img/index_scrolla3.png');">
 </div>
 <h3 class="d-xl-none text-center mt-3">
 <span>Travel, Transportation and
-Hospitality</span>
+<!-- Hospitality</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Travel, Transportation and Hospitality</span>
+<!-- <span>Travel, Transportation and Hospitality</span> -->
 </h3>
 <p class="">Deliver innovative services that will delight travelers with DXC
 connected transportation solutions.</p>
@@ -375,14 +375,14 @@ style="background-image: url('asset/img/index_scrolla4.png');">
 </div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>Banking and Capital Markets</span>
+<!-- <span>Banking and Capital Markets</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Banking and Capital Markets</span>
+<!-- <span>Banking and Capital Markets</span> -->
 </h3>
-<p class="">Respond rapidly to market and technology changes with SPC digital
+<p class="">Respond rapidly to market and technology changes with Evouge digital
 solutions for banks and capital markets firms.</p>
 </div>
 </div>
@@ -399,15 +399,15 @@ style="background-image: url('asset/img/index_scrolla1.png');">
 </div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>Aerospace and Defense</span>
+<!-- <span>Aerospace and Defense</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Aerospace and Defense</span>
+<!-- <span>Aerospace and Defense</span> -->
 </h3>
 <p class="">Shorten time to market, gain insight from data and accelerate
-innovation across digital manufacturing operations and value networks with SPC
+innovation across digital manufacturing operations and value networks with Evouge
 aerospace manufacturing solutions.</p>
 </div>
 </div>
@@ -424,15 +424,15 @@ style="background-image: url('asset/img/index_scrolla2.png');">
 </div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>Consumer and Retail</span>
+<!-- <span>Consumer and Retail</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Consumer and Retail</span>
+<!-- <span>Consumer and Retail</span> -->
 </h3>
 <p class="">Create new, engaging retail experiences across the channels your
-customers prefer with SPC digital solutions for consumer packaged goods and
+customers prefer with Evouge digital solutions for consumer packaged goods and
 retail companies.</p>
 </div>
 </div>
@@ -449,66 +449,15 @@ style="background-image: url('asset/img/index_scrolla3.png');">
 </div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>Manufacturing and Automotive</span>
+<!-- <span>Manufacturing and Automotive</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Manufacturing and Automotive</span>
+<!-- <span>Manufacturing and Automotive</span> -->
 </h3>
 <p class="">Transform factory operations, value networks and customer experiences
 with solutions for smart manufacturing and autonomous driving.</p>
-</div>
-</div>
-</a>
-<a href=""
-class="col-12 col-sm-4 px-xl-5 col-md-4 col-lg-6 col-xl-12 d-block">
-<div class="item d-flex ">
-<div class="img-wrapper mr-auto">
-<div class="img-aspect arrow">
-<div class="actual-image"
-style="background-image: url('asset/img/index_scrolla3.png');"></div>
-<div class="actual-image actual-image-color"
-style="background-image: url('asset/img/index_scrolla3.png');">
-</div>
-</div>
-<h3 class="d-xl-none text-center mt-3">
-<span>Energy, Utilities, Oil and
-Gas</span>
-</h3>
-</div>
-<div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
-<h3 class="">
-<span>Energy, Utilities, Oil and Gas</span>
-</h3>
-<p class="">Enhance productivity, reduce downtime and drive new revenue
-opportunities with SPC digital energy solutions.</p>
-</div>
-</div>
-</a>
-<a href=""
-class="col-12 col-sm-4 px-xl-5 col-md-4 col-lg-6 col-xl-12 d-block">
-<div class="item d-flex ">
-<div class="img-wrapper mr-auto">
-<div class="img-aspect arrow">
-<div class="actual-image"
-style="background-image: url('asset/img/index_scrolla1.png');"></div>
-<div class="actual-image actual-image-color"
-style="background-image: url('asset/img/index_scrolla1.png');">
-</div>
-</div>
-<h3 class="d-xl-none text-center mt-3">
-<span>Technology, Media and
-Telecommunications</span>
-</h3>
-</div>
-<div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
-<h3 class="">
-<span>Technology, Media and Telecommunications</span>
-</h3>
-<p class="">Redefine the customer experience, capitalize on digital convergence
-and quickly launch new business models with SPC digital solutions for
-technology, media and entertainment and telecommunications organizations.</p>
 </div>
 </div>
 </a>
@@ -524,14 +473,64 @@ style="background-image: url('asset/img/index_scrolla4.png');">
 </div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>Public Sector</span>
+<!-- <span>Energy, Utilities, Oil and
+Gas</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Public Sector</span>
+<!-- <span>Energy, Utilities, Oil and Gas</span> -->
 </h3>
-<p class="">Fulfill your mission and maximize your resources with SPC digital
+<p class="">Enhance productivity, reduce downtime and drive new revenue
+opportunities with Evouge digital energy solutions.</p>
+</div>
+</div>
+</a>
+<a href=""
+class="col-12 col-sm-4 px-xl-5 col-md-4 col-lg-6 col-xl-12 d-block">
+<div class="item d-flex ">
+<div class="img-wrapper mr-auto">
+<div class="img-aspect arrow">
+<div class="actual-image"
+style="background-image: url('asset/img/index_scrolla1.png');"></div>
+<div class="actual-image actual-image-color"
+style="background-image: url('asset/img/index_scrolla1.png');">
+</div>
+</div>
+<h3 class="d-xl-none text-center mt-3">
+<!-- <span>Technology, Media and Telecommunications</span> -->
+</h3>
+</div>
+<div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
+<h3 class="">
+<!-- <span>Technology, Media and Telecommunications</span> -->
+</h3>
+<p class="">Redefine the customer experience, capitalize on digital convergence
+and quickly launch new business models with Evouge digital solutions for
+technology, media and entertainment and telecommunications organizations.</p>
+</div>
+</div>
+</a>
+<a href=""
+class="col-12 col-sm-4 px-xl-5 col-md-4 col-lg-6 col-xl-12 d-block">
+<div class="item d-flex ">
+<div class="img-wrapper mr-auto">
+<div class="img-aspect arrow">
+<div class="actual-image"
+style="background-image: url('asset/img/index_scrolla2.png');"></div>
+<div class="actual-image actual-image-color"
+style="background-image: url('asset/img/index_scrolla2.png');">
+</div>
+</div>
+<h3 class="d-xl-none text-center mt-3">
+<!-- <span>Public Sector</span> -->
+</h3>
+</div>
+<div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
+<h3 class="">
+<!-- <span>Public Sector</span> -->
+</h3>
+<p class="">Fulfill your mission and maximize your resources with Evouge digital
 solutions for public sector institutions.</p>
 </div>
 </div>
@@ -576,7 +575,7 @@ class="abstract-item abstract-item-link-wrapper d-block mt-lg-0" role="link">
 <div class="abstract-item-content-wrapper">
 <p class="abstract-item-title">5 lessons we learned from our ransomware attack</p>
 <p class="abstract-item-subtitle">
-<span>Article</span>
+<!-- <span>Article</span> --> 
 </p>
 </div>
 </article>
@@ -609,8 +608,8 @@ class="abstract-item abstract-item-link-wrapper d-block mt-lg-0" role="link">
 <article class="abstract-item-article abstract-group-item abstract-item-theme-white">
 <div class="abstract-item-image-wrapper">
 <img class="abstract-item-image color"
-src="asset/img/index_technology_insights3.png" />
-<img class="abstract-item-image" src="asset/img/index_technology_insights3.png" />
+src="asset/img/index_technology_insights2.png" />
+<img class="abstract-item-image" src="asset/img/index_technology_insights2.png" />
 </div>
 <div class="abstract-item-content-wrapper">
 <p class="abstract-item-title">A better way </p>
@@ -661,12 +660,12 @@ style="background-image: url('asset/img/index_scroll1.png');"></div>
 style="background-image: url('asset/img/index_scroll1.png');"></div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>AT&T</span>
+<!-- <span>AT&T</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>AT&T</span>
+<!-- <span>AT&T</span> -->
 </h3>
 <p class="">AT&T develop next-generation technology solutions for
 enterprise businesses. Our solutions combine our cloud services, specialized
@@ -693,7 +692,7 @@ style="background-image: url('asset/img/index_scroll2.png');"></div>
 <h3 class="">
 <span>Amazon Web Services (AWS)</span>
 </h3>
-<p class="">As an AWS channel reseller and Premier Consulting Partner, SPC can
+<p class="">As an AWS channel reseller and Premier Consulting Partner, Evouge can
 help you discover, migrate, modernize and manage application workloads to the
 AWS platform. Take advantage of the latest AWS innovations and maximize your
 benefits from adopting the AWS platform.</p>
@@ -711,12 +710,12 @@ style="background-image: url('asset/img/index_scroll3.png');"></div>
 style="background-image: url('asset/img/index_scroll3.png');"></div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>Dell Technologies</span>
+<!-- <span>Dell Technologies</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Dell Technologies</span>
+<!-- <span>Dell Technologies</span> -->
 </h3>
 <p class="">Dell Technologies help you set the foundation for digital
 transformation by providing cloud-enabled, hyperconverged and agile
@@ -739,12 +738,12 @@ style="background-image: url('asset/img/index_scroll4.png');">
 </div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>Google Cloud</span>
+<!-- <span>Google Cloud</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Google Cloud</span>
+<!-- <span>Google Cloud</span> -->
 </h3>
 <p class="">Google Cloud is widely recognized as a global leader in delivering a
 secure, open, intelligent and transformative enterprise cloud platform. Our
@@ -760,9 +759,9 @@ class="col-6 col-sm-4 px-xl-5 col-md-3 col-lg-6 col-xl-12 d-block">
 <div class="img-wrapper mr-auto">
 <div class="img-aspect logo">
 <div class="actual-image "
-style="background-image: url('asset/img/tec/hp-color_2x.png');"></div>
+style="background-image: url('asset/img/index_scroll1.png');"></div>
 <div class="actual-image actual-image-color"
-style="background-image: url('asset/img/tec/hp-color_2x.png');"></div>
+style="background-image: url('asset/img/index_scroll1.png');"></div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
 <span>HP</span>
@@ -772,32 +771,32 @@ style="background-image: url('asset/img/tec/hp-color_2x.png');"></div>
 <h3 class="">
 <span>HP</span>
 </h3>
-<p class="">SPC and HP have a long history of joint innovation and global reach,
+<p class="">Evouge and HP have a long history of joint innovation and global reach,
 delivering transformative digital and mobile experiences to our customers
 through secure and seamless workplace productivity solutions and services,
 enabled by next-generation technology.</p>
 </div>
 </div>
 </a>
-<a href="partner_network/partners/146627/146633-hewlett_packard_enterprise5bae.html?ref=dhpbb_pn"
+<a href=""
 class="col-6 col-sm-4 px-xl-5 col-md-3 col-lg-6 col-xl-12 d-block">
 <div class="item d-flex ">
 <div class="img-wrapper mr-auto">
 <div class="img-aspect logo">
 <div class="actual-image "
-style="background-image: url('asset/img/tec/hpe-color_2x.png');"></div>
+style="background-image: url('asset/img/index_scroll2.png');"></div>
 <div class="actual-image actual-image-color"
-style="background-image: url('asset/img/tec/hpe-color_2x.png');"></div>
+style="background-image: url('asset/img/index_scroll2.png');"></div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>HPE</span>
+<!-- <span>HPE</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>HPE</span>
+<!-- <span>HPE</span> -->
 </h3>
-<p class="">SPC and HPE deliver digital outcomes faster. Together we power the
+<p class="">Evouge deliver digital outcomes faster. Together we power the
 enterprise of the future in an edge-centric, cloud-enabled, data-driven world
 by redefining experiences to drive smarter, hyper-efficient operations,
 unlocking the value of data with intelligent analytics, and delivering
@@ -805,52 +804,52 @@ everything-as-a-service to enable competitive agility and growth.</p>
 </div>
 </div>
 </a>
-<a href="partner_network/partners/146627/146634-ibm5bae.html?ref=dhpbb_pn"
+<a href=""
 class="col-6 col-sm-4 px-xl-5 col-md-3 col-lg-6 col-xl-12 d-block">
 <div class="item d-flex ">
 <div class="img-wrapper mr-auto">
 <div class="img-aspect logo">
 <div class="actual-image "
-style="background-image: url('asset/img/tec/ibm-color_2x.png');"></div>
+style="background-image: url('asset/img/index_scroll3.png');"></div>
 <div class="actual-image actual-image-color"
-style="background-image: url('asset/img/tec/ibm-color_2x.png');"></div>
+style="background-image: url('asset/img/index_scroll3.png');"></div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>IBM</span>
+<!-- <span>IBM</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>IBM</span>
+<!-- <span>IBM</span> -->
 </h3>
-<p class="">Drawing on IBM’s extensive line of cutting-edge technology and SPC’s
+<p class="">Drawing on IBM’s extensive line of cutting-edge technology and Evouge’s
 deep technology and industry expertise, we can help you address critical and
 complex challenges and drive business transformation to achieve tangible,
 measurable results.</p>
 </div>
 </div>
 </a>
-<a href="partner_network/partners/146627/146636-micro_focus5bae.html?ref=dhpbb_pn"
+<a href=""
 class="col-6 col-sm-4 px-xl-5 col-md-3 col-lg-6 col-xl-12 d-block">
 <div class="item d-flex ">
 <div class="img-wrapper mr-auto">
 <div class="img-aspect logo">
 <div class="actual-image "
-style="background-image: url('asset/img/tec/microfocus-color_2x.png');">
+style="background-image: url('asset/img/index_scroll4.png');">
 </div>
 <div class="actual-image actual-image-color"
-style="background-image: url('asset/img/tec/microfocus-color_2x.png');">
+style="background-image: url('asset/img/index_scroll4.png');">
 </div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>Micro Focus</span>
+<!-- <span>Micro Focus</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Micro Focus</span>
+<!-- <span>Micro Focus</span> -->
 </h3>
-<p class="">New to the SPC Partner Network, Micro Focus brings 40 years of
+<p class="">New to the Evouge Partner Network, Micro Focus brings 40 years of
 experience in delivering and supporting enterprise software solutions that
 help you innovate faster with lower risk. Together we build, operate and
 secure the IT systems that bring together existing business logic and
@@ -859,125 +858,125 @@ your increasingly complex business demands.</p>
 </div>
 </div>
 </a>
-<a href="partner_network/partners/146627/146637-microsoft5bae.html?ref=dhpbb_pn"
+<a href=""
 class="col-6 col-sm-4 px-xl-5 col-md-3 col-lg-6 col-xl-12 d-block">
 <div class="item d-flex ">
 <div class="img-wrapper mr-auto">
 <div class="img-aspect logo">
 <div class="actual-image "
-style="background-image: url('asset/img/tec/microsoft-color_2x.png');">
+style="background-image: url('asset/img/index_scroll1.png');">
 </div>
 <div class="actual-image actual-image-color"
-style="background-image: url('asset/img/tec/microsoft-color_2x.png');">
+style="background-image: url('asset/img/index_scroll1.png');">
 </div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>Microsoft</span>
+<!-- <span>Microsoft</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Microsoft</span>
+<!-- <span>Microsoft</span> -->
 </h3>
-<p class="">The SPC and Microsoft strategic partnership offers the integrated and
+<p class="">The Evouge and Microsoft strategic partnership offers the integrated and
 innovative solutions you need to succeed in a cloud-first world. Together, we
 help organizations worldwide transform their IT and business processes to
 drive success orchestrated by the cloud.</p>
 </div>
 </div>
 </a>
-<a href="partner_network/partners/146627/146638-oracle5bae.html?ref=dhpbb_pn"
+<a href=""
 class="col-6 col-sm-4 px-xl-5 col-md-3 col-lg-6 col-xl-12 d-block">
 <div class="item d-flex ">
 <div class="img-wrapper mr-auto">
 <div class="img-aspect logo">
 <div class="actual-image "
-style="background-image: url('asset/img/tec/oracle-color_2x.png');"></div>
+style="background-image: url('asset/img/index_scroll2.png');"></div>
 <div class="actual-image actual-image-color"
-style="background-image: url('asset/img/tec/oracle-color_2x.png');"></div>
+style="background-image: url('asset/img/index_scroll2.png');"></div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>Oracle</span>
+<!-- <span>Oracle</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>Oracle</span>
+<!-- <span>Oracle</span> -->
 </h3>
 <p class="">Combining Oracle’s extensive lineup of innovative technologies and
-SPC’s deep industry and systems integration expertise, this strategic
+Evouge’s deep industry and systems integration expertise, this strategic
 partnership helps you streamline business processes, improve decision making
 and accelerate your business transformation.</p>
 </div>
 </div>
 </a>
-<a href="partner_network/partners/146627/146640-sap5bae.html?ref=dhpbb_pn"
+<a href=""
 class="col-6 col-sm-4 px-xl-5 col-md-3 col-lg-6 col-xl-12 d-block">
 <div class="item d-flex ">
 <div class="img-wrapper mr-auto">
 <div class="img-aspect logo">
 <div class="actual-image "
-style="background-image: url('asset/img/tec/sap-color_2x.png');"></div>
+style="background-image: url('asset/img/index_scroll3.png');"></div>
 <div class="actual-image actual-image-color"
-style="background-image: url('asset/img/tec/sap-color_2x.png');"></div>
+style="background-image: url('asset/img/index_scroll3.png');"></div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>SAP</span>
+<!-- <span>SAP</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>SAP</span>
+<!-- <span>SAP</span> -->
 </h3>
-<p class="">SPC and SAP work together to deliver complete, end-to-end SAP-based
+<p class="">Evouge and SAP work together to deliver complete, end-to-end SAP-based
 solutions that accelerate and simplify your path to becoming a digital
-enterprise. Our approach combines SPC’s technology integration, hybrid cloud,
+enterprise. Our approach combines Evouge’s technology integration, hybrid cloud,
 industry and cybersecurity expertise with the power of solutions from SAP.</p>
 </div>
 </div>
 </a>
-<a href="partner_network/partners/146627/146641-servicenow5bae.html?ref=dhpbb_pn"
+<a href=""
 class="col-6 col-sm-4 px-xl-5 col-md-3 col-lg-6 col-xl-12 d-block">
 <div class="item d-flex ">
 <div class="img-wrapper mr-auto">
 <div class="img-aspect logo">
 <div class="actual-image"
-style="background-image: url('asset/img/tec/servicenow-color_2x.png"></div>
+style="background-image: url('asset/img/index_scroll4.png"></div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>ServiceNow</span>
+<!-- <span>ServiceNow</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>ServiceNow</span>
+<!-- <span>ServiceNow</span> -->
 </h3>
-<p class="">The strategic partnership between SPC and ServiceNow, the enterprise
+<p class="">The strategic partnership between Evouge and ServiceNow, the enterprise
 cloud company, makes ServiceNow’s transformative technology a foundational
-element in SPC’s portfolio of service management and service desk solutions.
+element in Evouge’s portfolio of service management and service desk solutions.
 </p>
 </div>
 </div>
 </a>
-<a href="partner_network/partners/146627/146642-vmware5bae.html?ref=dhpbb_pn"
+<a href=""
 class="col-6 col-sm-4 px-xl-5 col-md-3 col-lg-6 col-xl-12 d-block">
 <div class="item d-flex ">
 <div class="img-wrapper mr-auto">
 <div class="img-aspect logo">
 <div class="actual-image"
-style="background-image: url('asset/img/tec/vmware-color_2x.png');"></div>
+style="background-image: url('asset/img/index_scroll1.png');"></div>
 <div class="actual-image actual-image-color"
-style="background-image: url('asset/img/tec/vmware-color_2x.png');"></div>
+style="background-image: url('asset/img/index_scroll1.png');"></div>
 </div>
 <h3 class="d-xl-none text-center mt-3">
-<span>VMware</span>
+<!-- <span>VMware</span> -->
 </h3>
 </div>
 <div class="copy-wrapper d-none d-xl-block ml-4 align-self-center py-3">
 <h3 class="">
-<span>VMware</span>
+<!-- <span>VMware</span> -->
 </h3>
-<p class="">SPC has partnered with VMware to enable customers to thrive on change
+<p class="">Evouge has partnered with VMware to enable customers to thrive on change
 by transforming the way they build, deliver and consume IT resources while
 achieving business agility and ensuring freedom of choice.</p>
 </div>

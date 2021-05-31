@@ -87,7 +87,7 @@ Telephone is required
 <div class="form-group col-12  px-0 mx-0 mt-3">
 <label class="sr-only">
 Country</label>
-<select name="country" id="" class="form-control rounded-0" required>
+<select name="country" id="" class="form-control rounded-0" style="background-color: black;" required>
 <option value="">
 Country
 </option>
@@ -863,7 +863,7 @@ data-is-final="true">
 Submit</span>
 </button>
 </div>
-<div class="form-input-wrapper no-wrap row mx-auto text-center">
+<!-- <div class="form-input-wrapper no-wrap row mx-auto text-center">
 <div class="form-group col-12 col-md px-0">
 <div class="form-check">
 <input class="form-check-input" type="checkbox" value="yes" name="GDPRoptIn"
@@ -881,7 +881,7 @@ more
 </label>
 </div>
 </div>
-</div>
+</div> -->
 </div>
 <div class="form-pane" data-index="3" id="form-pane-3">
 <h2 class="form-title">
@@ -916,4 +916,7 @@ A Evouge representative will be in touch with you soon.
 </div>
 </div>
 </form>
+</div>
+
+</div>
 </div>

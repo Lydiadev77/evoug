@@ -217,7 +217,7 @@ Technology Stack</span>
 
 <div class="navbar-nav pl-3" style="flex-shrink:0;">
 <div class="nav-item pr-0">
-<a class="nav-link" href="">Contact Us</a>
+<a class="nav-link" href="contact_us.php">Contact Us</a>
 </div>
 </div>
 </div>

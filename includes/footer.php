@@ -228,7 +228,7 @@ Keep up-to-date with technology and innovation, now and in the future.
 <div class="form-group col-12 col-md px-0">
 <label class="sr-only">
 Country</label>
-<select name="Country" id="" class="form-control rounded-0" required>
+<select name="Country" id="" class="form-control rounded-0" style="background-color: #3c3c3c;" required>
 <option value="">
 Country
 </option>
@@ -968,7 +968,7 @@ data-is-final="true">
 Submit</span>
 </button>
 </div>
-<div class="form-input-wrapper no-wrap row mx-auto text-center">
+<!-- <div class="form-input-wrapper no-wrap row mx-auto text-center">
 <div class="form-group col-12 col-md px-0">
 <div class="form-check">
 <input class="form-check-input" type="checkbox" value="yes" name="GDPRoptIn"
@@ -983,7 +983,7 @@ more
 </label>
 </div>
 </div>
-</div>
+</div> -->
 </div>
 <div class="form-pane" data-index="3" id="form-pane-3">
 <h2 class="form-title">
@@ -1027,7 +1027,7 @@ Evouge
 </div>
 <footer class="socket">
 <div class="container-fluid">
-<div>©Evouge 2021</div>
+<div>©Evouge </div>
 <ul>
 <li>
 <a href="">Legal
